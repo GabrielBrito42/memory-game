@@ -1,0 +1,6 @@
+{
+  "CARDS":[{"name":"logo-steam", "clicked": false}, {"name":"logo-reddit", "clicked": false}, {"name":"logo-twitter", "clicked": false}, {"name":"logo-whatsapp", "clicked": false}, 
+    {"name":"logo-xbox", "clicked": false}, {"name":"logo-react", "clicked": false}, {"name":"logo-steam", "clicked": false}, {"name":"logo-reddit", "clicked": false}, 
+    {"name":"logo-twitter", "clicked": false}, {"name":"logo-whatsapp", "clicked": false}, {"name":"logo-xbox", "clicked": false}, {"name":"logo-react", "clicked": false}, {"name":"logo-discord", "clicked": false},
+    {"name":"logo-playstation", "clicked": false}, {"name":"logo-discord", "clicked": false},{"name":"logo-playstation", "clicked": false}]
+}
